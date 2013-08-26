@@ -1,14 +1,3 @@
-"""
-
-1. Install model-mommy
-
-    `pip install model-mommy`
-
-2. Use the command
-
-    `./manage mummy someotherapp.HilariousModelName:9000 yetanotherapp.OmgTheseModelNamesLawl:1`
-
-"""
 from django.conf import settings
 from django.core.management.base import BaseCommand, CommandError
 
