@@ -1,9 +1,6 @@
-django-mummy-command
-====================
+# django-mummy-command
 
-simple management command for model-mummy
-
-_in australia we use mum not mom_
+simple management command for model-mommy
 
 
 1. Install django-mummy-command
@@ -13,3 +10,9 @@ _in australia we use mum not mom_
 2. Use the command
 
     `./manage mummy someotherapp.HilariousModelName:9000 yetanotherapp.OmgTheseModelNamesLawl:1`
+
+
+## Why mummy?
+
+
+_in australia it's mum not mom_
