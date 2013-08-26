@@ -11,5 +11,3 @@ simple management command for model-mummy
 2. Use the command
 
     `./manage mummy someotherapp.HilariousModelName:9000 yetanotherapp.OmgTheseModelNamesLawl:1`
-
-"""
