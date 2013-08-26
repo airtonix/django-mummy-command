@@ -4,7 +4,7 @@ django-mummy-command
 simple management command for model-mummy
 
 
-1. Install model-mommy
+1. Install django-mummy-command
 
     `pip install git+https://github.com/airtonix/django-mummy-command`
 
