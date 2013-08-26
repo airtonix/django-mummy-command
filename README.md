@@ -3,6 +3,8 @@ django-mummy-command
 
 simple management command for model-mummy
 
+_in australia we use mum not mom_
+
 
 1. Install django-mummy-command
 
